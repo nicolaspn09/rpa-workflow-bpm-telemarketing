@@ -3,7 +3,7 @@ import os
 from llama_parse import LlamaParse
 
 #Salva na variável de ambiente
-os.environ["LLAMA_CLOUD_API_KEY"] = "llx-KDzlAf55u5jSaemsCy69wburm5tZxDJlWkFzlk7edwd9xnCm"
+os.environ["LLAMA_CLOUD_API_KEY"] = "REMOVED_FOR_GITHUB"
 
 #caminho_arquivo = r"C:\Users\ACER\OneDrive\Cursos online\Treinamento Python - Hashtag\Códigos\Llama\resultado.pdf"
 caminho_arquivo = r"C:\Users\Nícolas Nasário\Downloads\PDF\PEDIDO KOLESTON.pdf"
